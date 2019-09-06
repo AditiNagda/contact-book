@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "bhumika",
+      "email": "bhumi@gmail.com",
+      "password": "abc123"
+    },
+    {
+      "id": 2,
+      "name": "aditi",
+      "email": "aditi@gmail.com",
+      "password": "abc123"
+    },
+    {
+      "id": 3,
+      "name": "chhavi",
+      "email": "chhavi@gmail.com",
+      "password": "abc123"
+    },
+    {
+      "name": "Aditi",
+      "email": "nagdaaditi123@gmail.com",
+      "password": "12345",
+      "id": 4
+    }
+  ],
+  "contact": [
+    {
+      "userId": 1,
+      "name": "Aditi",
+      "contact": "9166772011",
+      "email": "ffdfghfgh",
+      "city": "bhbg",
+      "id": 11
+    },
+    {
+      "name": "fh",
+      "contact": "gj",
+      "email": "gh",
+      "city": "ghj",
+      "id": 13
+    },
+    {
+      "name": "fhfb",
+      "contact": "hgfghb",
+      "email": "hfgyh",
+      "city": "hfdgh",
+      "userId": "2",
+      "id": 14
+    }
+  ]
+}
